@@ -1,3 +1,39 @@
+/*
+I. Phan tich yeu cau bai toan: 
+
+1. Doc va luu tru du lieu cua hoc sinh tu mot text file. 
+2. Thong tin cua hoc sinh bao gom ten, lop, dia chi, va dien so 3 mon: Toan, Van, Anh. 
+3. Cho phep liet ke tat ca hoc sinh, hoac loc hoc sinh theo ten, lop, dia chi hoac diem so. 
+
+II. Phan tich yeu cau output khi chay: 
+  Moi ban lua chon: 
+  1. Mo file cu 	
+  2. Ta0 file moi
+  3. Exit 
+
+  1-2.1 In ra toan bo hoc sinh
+  1-2.2. Loc lay mot so hoc sinh
+  1-2.3. Them hoc sinh 
+  1-2.4. Chinh sua
+  1-2.5. Xoa thong tin hoc sinh 
+  1-2.6. Ket thuc va dong file. 
+
+  1-2.2.1. Loc duoc thong tin theo dang chu co so thong tin trung voi gia tri nhap vao. 
+  1-2.2.1. Loc duoc thong tin theo dang so co so, ta co the lua chon lay cac gia tri bang, lon hon, nho hon, ... 
+
+III. Problem solve: 
+1. Dung cau truc struct de viet chuong trinh loi. 
+
+
+
+2. Luu tru file 
+3. Doc file. 
+4. Loc file. 
+5. Tim kiem. 
+
+6. Cac ham se dung: switch, for, if, ... 
+*/
+
 // Khai bao cac ham thu vien 
 #include<iostream>
 #include<string> 
